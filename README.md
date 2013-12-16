@@ -7,3 +7,11 @@ A project to demonstrate using git
 * One
 * Two
 * _three_
+
+## further reading
+
+All about git
+
+The notes
+
+
