@@ -14,4 +14,8 @@ All about git
 
 The notes
 
+## author
+
+
+[David](images/David3.jpg)
 
